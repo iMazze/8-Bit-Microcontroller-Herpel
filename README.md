@@ -23,7 +23,7 @@ Es müssen immer alle Dateien gepullt werden, sodass das Projekt vollständig fu
 
 ## Pull - Request ##
 ```
-https://github.com/iMazze/8-Bit-Microcontroller-Herpel.git
+git clone https://github.com/iMazze/8-Bit-Microcontroller-Herpel.git
 ```
 
 ## Haftung ##
